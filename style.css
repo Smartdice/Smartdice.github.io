@@ -807,6 +807,11 @@ a.navbar-brand{
     }  
 }
 
+.post-img{
+    margin-top: -25%;
+    margin-bottom: -20%;
+}
+
 
 
 
@@ -1089,6 +1094,7 @@ img.mfp-img {
     max-width: 100%;
 }
 .team-section-intro {
+    background-color: background-color: #f9f9f9!important;
     font-size: 18px;
     line-height: 34px;
     margin-bottom: 15px;
