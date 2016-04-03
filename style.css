@@ -1,9 +1,4 @@
-/*
-* Template: Uniquebiz
-* Author: TrendyTheme
-* Version: 1.0
-* Design and Developed by: TrendyTheme
-*/
+
 
 
 /*
@@ -587,7 +582,7 @@ a.navbar-brand{
 /* =-=-=-=-=-=-= Slider Section =-=-=-=-=-=-= */
 .slider-section {
   background: url(assets/images/logo.svg) no-repeat center center;
-  background-color: rgba(38, 179, 123, 0.7);
+  background-color: #e8e8e8;
   overflow: hidden;
   padding-top: 10%;
 }
@@ -1674,5 +1669,5 @@ img.mfp-img {
 }
 
 div#undefined-sticky-wrapper{
-    background-color: rgba(38, 179, 123, 0.7);
+    background-color: #e8e8e8;
 }
