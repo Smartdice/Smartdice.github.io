@@ -588,7 +588,7 @@ a.navbar-brand{
 .slider-section {
   margin-top: -7%;
   background: url(assets/images/logo.svg) no-repeat center center;
-  background-color: #27b337;
+  background-color: rgb(38, 179, 123);
   overflow: hidden;
 
 }
