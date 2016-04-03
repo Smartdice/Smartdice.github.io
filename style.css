@@ -61,7 +61,7 @@ body {
 /* Link style
 /* ------------------------------ */
 a {
-    color: #77a86d;
+    color: #009FAD;
 }
 a,
 a > * {
@@ -169,9 +169,9 @@ ul {
 }
 
 .btn-primary {
-    color: #77a86d;
+    color: #009FAD;
     background-color: transparent;
-    border-color: #77a86d;
+    border-color: #009FAD;
 }
 
 .btn-primary:hover,
@@ -180,8 +180,8 @@ ul {
 .btn-primary:focus,
 .btn-primary:active:focus {
     color: #fff;
-    background-color: #77a86d;
-    border-color: #77a86d;
+    background-color: #009FAD;
+    border-color: #009FAD;
 }
 
 
@@ -196,7 +196,7 @@ ul {
 .btn-default:active:hover,
 .btn-default:focus,
 .btn-default:active:focus {
-    color: #77a86d;
+    color: #009FAD;
     background-color: #fff;
     border-color: #fff;
 }
@@ -280,13 +280,13 @@ button:focus {
     padding: 100px 0;
 }
 .theme-color {
-    color: #77a86d!important
+    color: #009FAD!important
 }
 .white-color {
     color: #fff!important
 }
 .theme-bg {
-    background-color: #77a86d!important;
+    background-color: #009FAD!important;
 }
 .gray-bg {
     background-color: #f9f9f9!important;
@@ -453,7 +453,7 @@ button:focus {
     width: 24px;
     height: 24px;
     line-height: 24px;
-    background: #77a86d;
+    background: #009FAD;
     color: #282828;
     text-align: center;
     border-radius: 3px;
@@ -462,7 +462,7 @@ button:focus {
 .cta-wrapper ul li a {
     display: inline-block;
     font-weight: 400;
-    color: #77a86d;
+    color: #009FAD;
 }
 .cta-wrapper ul li a:hover {
     color: #fff;
@@ -473,14 +473,14 @@ button:focus {
     width: 24px;
     height: 24px;
     line-height: 26px;
-    background: #77a86d;
+    background: #009FAD;
     text-align: center;
     color: #282828;
     border-radius: 3px;
 }
 .social-wrapper ul li a:hover {
     background: #fff;
-    color: #77a86d;
+    color: #009FAD;
 }
 
 @media screen and (max-width: 767px) {
@@ -516,7 +516,9 @@ button:focus {
     font-weight: 400;
 }
 
-
+a.navbar-brand{
+    margin-top: -3%;
+}
 
 @media (min-width: 768px) {
 
@@ -548,12 +550,12 @@ button:focus {
  
     .nav>li>a:hover,
     .navbar-nav>li.active>a {
-        color: #77a86d;
+        color: #009FAD;
         background-color: transparent;
-        box-shadow: inset 0 3px #77a86d;
+        box-shadow: inset 0 3px #009FAD;
     }
     .nav>li>a:focus {
-        color: #77a86d;
+        color: #009FAD;
         background-color: transparent;
     }
 
@@ -561,19 +563,19 @@ button:focus {
 
 @media screen and (max-width: 767px) {
     .navbar-brand {
-        padding: 10px 15px;
+        padding: 15px;
     }
     .navbar-toggle .icon-bar {
-        background-color: #77a86d;
+        background-color: #009FAD;
     }
 
     .nav>li>a:hover,
     .navbar-nav>li.active>a {
-        color: #77a86d;
+        color: #009FAD;
         background-color: transparent;
     }
     .nav>li>a:focus {
-        color: #77a86d;
+        color: #009FAD;
         background-color: transparent;
     }
 
@@ -584,13 +586,14 @@ button:focus {
 
 /* =-=-=-=-=-=-= Slider Section =-=-=-=-=-=-= */
 .slider-section {
-  background: url(assets/images/Smartdice.png) no-repeat center;
+  margin-top: -7%;
+  background: url(assets/images/Smartdice.png) no-repeat center center;
   background-size: cover;
   overflow: hidden;
 
 }
 .tt-carousel .carousel-inner{
-  min-height: 590px;  
+  min-height: 620px;  
 }
 .carousel-intro {
     padding-top: 160px;  
@@ -778,10 +781,10 @@ button:focus {
     margin: 8px 0 20px;
 }
 .featured-item:hover .title h3 {
-    color: #77a86d;
+    color: #009FAD;
 }
 .featured-item:hover .icon {
-    background-color: #77a86d;
+    background-color: #009FAD;
 }
 .featured-item .icon,
 .featured-item .title h3 {
@@ -982,7 +985,7 @@ img.mfp-img {
     right: 0;
     top: 0;
     bottom: 0;
-    background-color: rgba(119, 168, 109, 0.8);
+    background-color: rgba(0, 159, 173, 0.8);
     text-align: center;
     opacity: 0;
     visibility: hidden;
@@ -1016,7 +1019,7 @@ img.mfp-img {
     border-radius: 4px;
 }
 .thumb-wrapper .portfolio-icon-wrapper a:hover {
-    color: #77a86d;
+    color: #009FAD;
     background-color: #fff;
 }
 .thumb-wrapper .portfolio-icon-wrapper a:first-child {
@@ -1070,7 +1073,7 @@ img.mfp-img {
 }
 .work-carousel.owl-theme .owl-dots .owl-dot.active span, 
 .work-carousel.owl-theme .owl-dots .owl-dot:hover span {
-    background: #77a86d;
+    background: #009FAD;
 }
 
 
@@ -1129,7 +1132,7 @@ img.mfp-img {
 }
 .team-member .social-link a:hover{
     background-color: #fff;
-    color: #77a86d;
+    color: #009FAD;
     border-color: transparent; 
 }
 
@@ -1139,7 +1142,7 @@ img.mfp-img {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: rgba(119, 168, 109, 0.9);
+    background-color:rgba(0, 159, 173, 0.7);
     opacity: 0;
     visibility: hidden;
     -webkit-transition: all 0.3s;
@@ -1227,7 +1230,7 @@ img.mfp-img {
 .testimonial-meta {
     font-size: 16px;
     font-weight: 700;
-    color: #77a86d;
+    color: #009FAD;
 }
 .testimonial-meta span {
     display: block;
@@ -1370,7 +1373,7 @@ img.mfp-img {
     display: block;
     font-size: 40px;
     font-weight: 700;
-    color: #77a86d;
+    color: #009FAD;
 }
 .count-description {
     display: block;
@@ -1438,7 +1441,7 @@ img.mfp-img {
 
 .latest-blog-list .date:hover {
     color: #fff;
-    background-color: #77a86d;
+    background-color: #009FAD;
     border-color: transparent;
 }
 
@@ -1455,7 +1458,7 @@ img.mfp-img {
     color: #404040;
 }
 .blog-post h3 a:hover{
-    color: #77a86d;
+    color: #009FAD;
 }
 .post-meta {
     padding: 0;
@@ -1476,14 +1479,14 @@ img.mfp-img {
     text-transform: capitalize;
 }
 .post-meta li a:hover {
-    color: #77a86d;
+    color: #009FAD;
 }
 
 
 
 /*subscribe-wrapper*/
 .subscribe-wrapper {
-    background-color: #77a86d;
+    background-color: #009FAD;
     padding: 50px 70px 40px;
     color: #fff;
 }
@@ -1504,19 +1507,19 @@ img.mfp-img {
 }
 .subscribe-form .btn {
     font-size: 14px;
-    color: #77a86d;
+    color: #009FAD;
     background-color: #fff;
     border: 0;
 }
 
 .subscribe-form input[type="email"]::-webkit-input-placeholder {
-   color: #77a86d;
+   color: #009FAD;
 }
 .subscribe-form input[type="email"]::-moz-placeholder {  /* Firefox 19+ */
-   color: #77a86d;  
+   color: #009FAD;  
 }
 .subscribe-form input[type="email"]:-ms-input-placeholder {  
-   color: #77a86d;  
+   color: #009FAD;  
 }
 
 
@@ -1582,7 +1585,7 @@ img.mfp-img {
     color: #555;
 }
 .footer-menu li a:hover {
-    color: #77a86d;
+    color: #009FAD;
 }
 
 
