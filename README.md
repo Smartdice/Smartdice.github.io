@@ -1,0 +1,1 @@
+This repository hostes the work of the Website for Smartdice company of LGP 
