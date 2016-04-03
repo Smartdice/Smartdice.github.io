@@ -582,15 +582,14 @@ a.navbar-brand{
 }
 
 
-
+    
 
 /* =-=-=-=-=-=-= Slider Section =-=-=-=-=-=-= */
 .slider-section {
-  margin-top: -7%;
   background: url(assets/images/logo.svg) no-repeat center center;
   background-color: rgba(38, 179, 123, 0.7);
   overflow: hidden;
-
+  padding-top: 10%;
 }
 .tt-carousel .carousel-inner{
   min-height: 620px;  
@@ -1672,4 +1671,8 @@ img.mfp-img {
 
 #contacts{
     margin-bottom: 5%;
+}
+
+div#undefined-sticky-wrapper{
+    background-color: rgba(38, 179, 123, 0.7);
 }
