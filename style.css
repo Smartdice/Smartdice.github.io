@@ -1670,3 +1670,12 @@ img.mfp-img {
 .sticky-wrapper{
     background-color: #e8e8e8; 
 }
+
+.post-img{
+    margin-bottom: -25%;
+    margin-top: -20%;
+}
+
+.post-desc{
+    margin-top: 10%;
+}
