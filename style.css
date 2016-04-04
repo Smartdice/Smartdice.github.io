@@ -588,7 +588,7 @@ a.navbar-brand{
 .slider-section {
   margin-top: -7%;
   background: url(assets/images/logo.svg) no-repeat center center;
-  background-color: #27b337;
+  background-color: #e8e8e8;
   overflow: hidden;
 
 }
@@ -1668,7 +1668,10 @@ img.mfp-img {
     margin-bottom: 5%;
 }
 
-.post-img{
-    margin-top: -25%;
-    margin-bottom: -25%;
+#about-parag{
+    margin-top: 10%;
+}
+
+#about{
+    margin-bottom: -10%;
 }
