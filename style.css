@@ -1106,8 +1106,6 @@ img.mfp-img {
     background-repeat: no-repeat;
     background-position: 50%;
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
     position: relative;
 
 }
@@ -1686,10 +1684,6 @@ img.mfp-img {
 
 .post-desc{
     margin-top: 10%;
-}
-
-.team-section{
-    margin-left: 6%;
 }
 
 .managment-section{
