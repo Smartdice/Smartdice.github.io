@@ -1,3 +1,9 @@
+/*
+* Template: Uniquebiz
+* Author: TrendyTheme
+* Version: 1.0
+* Design and Developed by: TrendyTheme
+*/
 
 jQuery(function ($) {
 
