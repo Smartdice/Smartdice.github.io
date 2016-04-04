@@ -1103,7 +1103,13 @@ img.mfp-img {
 }
 .team-member ,
 .team-member .team-img {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
     position: relative;
+
 }
 .team-member .team-img img{
     width: 100%;
@@ -1148,6 +1154,8 @@ img.mfp-img {
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;
     transition: all 0.3s;
+    background-position: 50%;
+    border-radius: 50%;
 }
 
 .team-member:hover .team-hover,
@@ -1678,4 +1686,16 @@ img.mfp-img {
 
 .post-desc{
     margin-top: 10%;
+}
+
+.team-section{
+    margin-left: 6%;
+}
+
+.managment-section{
+    margin-bottom: 5%;
+}
+
+.managment{
+    margin-top: 5%;
 }
