@@ -586,7 +586,6 @@ a.navbar-brand{
 
 /* =-=-=-=-=-=-= Slider Section =-=-=-=-=-=-= */
 .slider-section {
-  margin-top: -7%;
   background: url(assets/images/logo.svg) no-repeat center center;
   background-color: #e8e8e8;
   overflow: hidden;
@@ -1666,4 +1665,8 @@ img.mfp-img {
 
 #contacts{
     margin-bottom: 5%;
+}
+
+.sticky-wrapper{
+    background-color: #e8e8e8; 
 }
