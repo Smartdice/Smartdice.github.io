@@ -588,7 +588,7 @@ a.navbar-brand{
 .slider-section {
   margin-top: -7%;
   background: url(assets/images/logo.svg) no-repeat center center;
-  background-color: rgb(38, 179, 123);
+  background-color: #27b337;
   overflow: hidden;
 
 }
@@ -805,11 +805,6 @@ a.navbar-brand{
     .about-section .post-img img{
         width: 100%;
     }  
-}
-
-.post-img{
-    margin-top: -25%;
-    margin-bottom: -20%;
 }
 
 
@@ -1094,7 +1089,6 @@ img.mfp-img {
     max-width: 100%;
 }
 .team-section-intro {
-    background-color: background-color: #f9f9f9!important;
     font-size: 18px;
     line-height: 34px;
     margin-bottom: 15px;
