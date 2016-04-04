@@ -10,11 +10,15 @@ jQuery(function ($) {
    //"use strict";
 
 
-    /* ======= Preloader ======= */
-    (function () {
-        $('#status').fadeOut();
-        $('#preloader').delay(1000).fadeOut('slow');
-    }());
+        /* ---------------------------------------------- /*
+     * Preloader
+    /* ---------------------------------------------- */
+
+    $(window).ready(function() {
+        $('#pre-status').delay(1000).fadeOut();
+        $('#tt-preloader').delay(1000).fadeOut('slow');
+    });
+
 
 
     /* ======= Sticky Menu ======= */
