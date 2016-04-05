@@ -1606,11 +1606,8 @@ img.mfp-img {
 }
 
 
-/* ---------------------------------------------- /*
- * Preloader
-/* ---------------------------------------------- */
-
-#tt-preloader {
+/* =-=-=-=-=-=-= Preloader =-=-=-=-=-=-= */
+#preloader {
     background: #FFF;
     bottom: 0;
     left: 0;
@@ -1620,9 +1617,9 @@ img.mfp-img {
     z-index: 9999;
 }
 
-#pre-status,
-.preload-placeholder {
-    background-image: url(assets/images/preloader.gif);
+#status,
+.status-mes {
+    background-image: url(assets/images/preloder.gif);
     background-position: center;
     background-repeat: no-repeat;
     height: 200px;
@@ -1633,7 +1630,7 @@ img.mfp-img {
     width: 200px;
 }
 
-.preload-placeholder {
+.status-mes {
     background: none;
     left: 0;
     margin: 0;
