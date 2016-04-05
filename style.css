@@ -512,8 +512,9 @@ button:focus {
 }
 
 .nav>li>a {
+
     color: #2b3135;
-    font-size: 14px;
+    font-size: 17px;
     font-weight: 400;
 }
 
@@ -1697,4 +1698,6 @@ img.mfp-img {
 
 figure{
     background-color: #f9f9f9;
+    border: 1px solid rgba(0, 159, 173, 0.8);
+
 }
