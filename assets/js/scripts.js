@@ -102,9 +102,6 @@ jQuery(function ($) {
 
     /* ======= Latest Work Carousel ======= */
     $('.work-carousel').owlCarousel({
-        loop:true,
-        margin:30,
-        autoplay:true,
         nav:false,
         responsive:{
             0:{
