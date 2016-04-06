@@ -196,4 +196,3 @@ $('.mailchimp').ajaxChimp({
 
 
 });
-
