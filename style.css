@@ -142,11 +142,13 @@ h6 {
 
 
 p {
-    margin: 0 0 10px 0; 
+    margin: 0 0 10px 0;
     font-size: larger;
+    text-align: justify;
 }
-p img { 
-    margin: 0; 
+
+p img {
+    margin: 0;
 }
 
 blockquote {
@@ -208,11 +210,11 @@ ul {
 }
 
 
-.btn.active.focus, 
-.btn.active:focus, 
-.btn.focus, 
-.btn:active.focus, 
-.btn:active:focus, 
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
 .btn:focus,
 button:focus {
     outline: none !important;
@@ -549,7 +551,7 @@ a.navbar-brand{
         padding-top: 15px;
         padding-bottom: 15px;
     }
- 
+
     .nav>li>a:hover,
     .navbar-nav>li.active>a {
         color: #009FAD;
@@ -594,10 +596,10 @@ a.navbar-brand{
 
 }
 .tt-carousel .carousel-inner{
-  min-height: 620px;  
+  min-height: 450px;
 }
 .carousel-intro {
-    padding-top: 160px;  
+    padding-top: 160px;
 }
 .carousel-title,
 .crousel-subtitle{
@@ -632,7 +634,7 @@ a.navbar-brand{
 @media (min-width: 992px) and (max-width: 1199px) {
     .carousel-intro {
         padding-top: 100px;
-    } 
+    }
 }
 @media (min-width: 768px) and (max-width: 991px) {
     .tt-carousel .carousel-inner {
@@ -657,7 +659,7 @@ a.navbar-brand{
     }
     .carousel-intro {
         padding-top: 80px;
-    }  
+    }
 }
 @media (max-width: 530px) {
     .carousel-intro h1 {
@@ -743,15 +745,15 @@ a.navbar-brand{
 
 /* =-=-=-=-=-=-= Feature Section =-=-=-=-=-=-= */
 .feature-img {
-    padding: 75px 0;  
+    padding: 75px 0;
 }
 
 @media (max-width: 991px) {
     .feature-img {
-        padding: 30px 0;  
+        padding: 30px 0;
     }
     .feature-img img{
-        width: 100%;  
+        width: 100%;
     }
 }
 
@@ -805,7 +807,7 @@ a.navbar-brand{
     }
     .about-section .post-img img{
         width: 100%;
-    }  
+    }
 }
 
 
@@ -891,9 +893,9 @@ a.navbar-brand{
 .mfp-arrow {
     height: 60px;
 }
-.mfp-arrow::before, 
-.mfp-arrow::after, 
-.mfp-arrow .mfp-b, 
+.mfp-arrow::before,
+.mfp-arrow::after,
+.mfp-arrow .mfp-b,
 .mfp-arrow .mfp-a {
     margin-top: 15px;
     top: -1px !important;
@@ -1072,7 +1074,7 @@ img.mfp-img {
     -o-transition: background 0.4s ease-in-out 0s;
     transition: background 0.4s ease-in-out 0s;
 }
-.work-carousel.owl-theme .owl-dots .owl-dot.active span, 
+.work-carousel.owl-theme .owl-dots .owl-dot.active span,
 .work-carousel.owl-theme .owl-dots .owl-dot:hover span {
     background: #009FAD;
 }
@@ -1138,7 +1140,7 @@ img.mfp-img {
 .team-member .social-link a:hover{
     background-color: #fff;
     color: #009FAD;
-    border-color: transparent; 
+    border-color: transparent;
 }
 
 .team-hover {
@@ -1210,7 +1212,7 @@ img.mfp-img {
 @media (max-width: 991px) {
     .team-member {
         margin-bottom: 30px;
-    } 
+    }
 }
 
 
@@ -1271,7 +1273,7 @@ img.mfp-img {
     width: 100%;
 }
 
-.clients li a, 
+.clients li a,
 .clients li img {
     display: block;
     width: 75%;
@@ -1306,29 +1308,29 @@ img.mfp-img {
         margin-bottom: 40px;
     }
 
-    .clients.grid-3 li, 
-    .clients.grid-4 li, 
-    .clients.grid-5 li, 
+    .clients.grid-3 li,
+    .clients.grid-4 li,
+    .clients.grid-5 li,
     .clients.grid-6 li {
         width: 33.33%;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .clients.grid-2 li, 
-    .clients.grid-3 li, 
-    .clients.grid-4 li, 
-    .clients.grid-5 li, 
+    .clients.grid-2 li,
+    .clients.grid-3 li,
+    .clients.grid-4 li,
+    .clients.grid-5 li,
     .clients.grid-6 li {
         width: 50%;
     }
 }
 
 @media screen and (max-width: 479px) {
-    .clients.grid-2 li, 
-    .clients.grid-3 li, 
-    .clients.grid-4 li, 
-    .clients.grid-5 li, 
+    .clients.grid-2 li,
+    .clients.grid-3 li,
+    .clients.grid-4 li,
+    .clients.grid-5 li,
     .clients.grid-6 li {
         width: 100%;
     }
@@ -1523,10 +1525,10 @@ img.mfp-img {
    color: #009FAD;
 }
 .subscribe-form input[type="email"]::-moz-placeholder {  /* Firefox 19+ */
-   color: #009FAD;  
+   color: #009FAD;
 }
-.subscribe-form input[type="email"]:-ms-input-placeholder {  
-   color: #009FAD;  
+.subscribe-form input[type="email"]:-ms-input-placeholder {
+   color: #009FAD;
 }
 
 
@@ -1676,7 +1678,7 @@ img.mfp-img {
 }
 
 .sticky-wrapper{
-    background-color: #e8e8e8; 
+    background-color: #e8e8e8;
 }
 
 .post-img{
