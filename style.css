@@ -1690,12 +1690,24 @@ img.mfp-img {
     margin-top: 10%;
 }
 
-.management-section{
+.management-section {
     margin-bottom: 5%;
 }
 
-.management{
+.management {
     margin-top: 5%;
+}
+
+.informatics {
+    margin-top: 5%;
+}
+
+.informatics-section {
+    margin-bottom: 2%;
+}
+
+.multimedia-section {
+    margin-bottom: 2%;
 }
 
 figure{
