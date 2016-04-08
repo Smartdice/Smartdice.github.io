@@ -1053,7 +1053,7 @@ img.mfp-img {
 	text-transform: uppercase;
 }
 
-.thumb-wrapper .portfolio-meta a {
+.thumb-wrapper .portfolio-meta{
 	color: #fff;
 	font-size: 13px;
 }
