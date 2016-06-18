@@ -1,0 +1,15 @@
+<svg id="svg5006" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="47.561mm" width="202.5mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 717.53499 168.52278">
+<defs id="defs5008">
+<linearGradient id="XMLID_2_" y2="415" gradientUnits="userSpaceOnUse" x2="358.77" gradientTransform="matrix(1 0 0 .40608 9.8039 502.39)" x1="358.77">
+<stop id="stop4" stop-color="#07ABB8" offset="0"/>
+<stop id="stop6" stop-color="#0EA3AE" offset=".1372"/>
+<stop id="stop8" stop-color="#16939B" offset=".3247"/>
+<stop id="stop10" stop-color="#1A797E" offset=".5413"/>
+<stop id="stop12" stop-color="#16595B" offset=".7777"/>
+<stop id="stop14" stop-color="#093A3B" offset="1"/>
+</linearGradient>
+</defs>
+<g id="layer1" transform="translate(-9.8039 -502.39)">
+<path id="XMLID_12_" fill="url(#XMLID_2_)" d="m370.34 502.39 357 84.464-358.54 84.058-359-84.261z"/>
+</g>
+</svg>
